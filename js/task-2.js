@@ -35,3 +35,4 @@ console.log(storage.getItems()); // ["Nanitoids", "Antigravitator", "Droid"]
 
 storage.removeItem("Scaner");
 console.log(storage.getItems()); // ["Nanitoids", "Antigravitator", "Droid"]
+
